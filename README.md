@@ -1,55 +1,63 @@
-# 💼 End-to-End Data Analytics & Data Science Portfolio
+# 💼 End-to-End Data Analytics, Cloud Engineering & Generative AI Portfolio
 
-Welcome to my master data repository. This project documents my complete technical progression from data analytics foundational basics to advanced data engineering, cloud-native storage, and Generative AI workflows. It implements core components from the *Complete Data Analyst Bootcamp* and *Master Data Analysis* curricula.
-
----
-
-## 🛠️ Tech Stack & Skills Documented
-* **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (SQL Server)
-* **Business Intelligence:** Microsoft Excel, Power BI (Advanced DAX), Tableau
-* **Data Engineering & Cloud:** AWS (S3, EC2), Snowflake Data Warehousing, ETL Pipelines
-* **Advanced Analytics:** Exploratory Data Analysis (EDA), Statistical Inference, Feature Engineering
-* **Next-Gen Tech:** Generative AI integration for data automation
+Welcome to my master data portfolio. This repository documents a complete production-grade technical journey from foundational data analysis to multi-cloud pipeline engineering, enterprise data warehousing, and AI-automated workflows. It covers all advanced implementations from my comprehensive bootcamp curriculum.
 
 ---
 
-## 📁 Repository Architecture
+## 🛠️ Unified Technology Stack
+* **Core Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (SQL Server, MySQL)
+* **Business Intelligence:** Power BI (Advanced DAX, Dataflows), Tableau (Prep Builder), Excel
+* **Cloud Platforms:** AWS (S3, EC2), Azure (SQL DB), Google Cloud Platform (BigQuery)
+* **Modern Warehousing:** Snowflake Cloud Data Platform
+* **AI & Automation:** Generative AI, LLM Prompt Engineering, Power BI AI Features
 
-### 📊 1. Power BI & Business Intelligence (`/01_Excel_PowerBI_Dashboards`)
-* Custom interactive business dashboards tracking critical KPIs.
-* Advanced data cleaning, transformation, and modeling via Power Query.
-* Complex domain-specific calculations implemented with DAX expressions.
+---
 
-### 🛢️ 2. SQL Server Database Management (`/02_SQL_Server_Queries`)
-* Optimized scripts featuring Window functions, CTEs, and complex Joins.
-* Efficient data retrieval, manipulation, and structural aggregation.
-* Scalable relational database management architectures.
+## 📁 Repository Architecture & Engineering Modules
 
-### 🐍 3. Python, EDA, & Visualization (`/03_Python_EDA_Visualization`)
-* Deep Exploratory Data Analysis (EDA) to expose hidden data trends.
-* Visual data storytelling utilizing Matplotlib and Seaborn libraries.
-* Systematic detection of outliers, anomalies, and data quality issues.
+### 📊 1. Enterprise Business Intelligence & Dashboard Engineering (`/01_BI_Dashboards`)
+* **Advanced Excel:** Automated data ingestion pipelines via Power Query directly connected to SQL Server instances.
+* **Tableau Analytics Ecosystem:** Structured data prep via Tableau Prep Builder, interactive corporate dashboards, and an end-to-end *Student Depression Data Analysis* capstone.
+* **Core Power BI Dashboard Portfolio:**
+  * *Sales Data Analysis:* Relational data modeling capturing core retail margins and performance KPIs.
+  * *Insurance Data Analysis:* Operational risk management, premium pipelines, and demographic tracking.
+  * *UPI Transactions Data Analysis:* Visualizing high-frequency fintech transaction volumes and platform failures.
+* **Advanced Multi-Cloud & Enterprise Power BI Architectures:**
+  * 🔄 *Project 1 (Power BI Dataflows):* Engineering reusable cloud data preparation entities using Dataflows for centralized ETL.
+  * 🛢️ *Project 2 (Hybrid Relational Systems):* Dual-source extraction pipelines pulling simultaneously from MySQL and SQL Server.
+  * ☁️ *Project 3 (Google BigQuery Warehouse):* Connecting directly to Google Cloud Platform to analyze enterprise-scale analytical datasets.
+  * 🔵 *Project 4 (Microsoft Azure SQL Database):* Querying and visualizing cloud-hosted relational structures on Azure infrastructure.
+  * 🤖 *AI-Driven Visualization:* Deploying native Power BI AI features (Smart Narratives, Q&A, Key Influencers) for automated insight extraction.
+
+### 🛢️ 2. SQL Server & MySQL Database Management (`/02_SQL_Server_Queries`)
+* Designing normalized schemas and structural aggregations on relational database systems.
+* Developing production-ready scripts utilizing Window functions, CTEs, complex Joins, and subqueries.
+* Programmatic automation engineered using custom scalar and system functions.
+
+### 🐍 3. Python Data Science & EDA (`/03_Python_EDA_Visualization`)
+* High-performance processing, array operations, and dataset cleaning utilizing Pandas and NumPy.
+* Applied Exploratory Data Analysis (EDA) scripts isolating anomalies, variance, and data distributions.
+* Graphic data storytelling layers configured using Matplotlib and Seaborn visualization frameworks.
 
 ### 🧪 4. Statistics & Feature Engineering (`/04_Stats_Feature_Engineering`)
-* Preprocessing pipelines for missing values, encoding, and scaling.
-* Statistical validation using probability models and hypothesis testing.
-* Variable transformation designed to maximize analytical insights.
+* **Statistical Logic:** Central tendency, probability distributions (PDFs), and inferential hypothesis/AB testing.
+* **Feature Pipelines:** Preprocessing steps covering missing value mitigation, categorical encoding, and outlier feature scaling.
 
-### ☁️ 5. Cloud Systems & Gen AI (`/05_Cloud_Data_Warehousing`)
-* Automated ETL pipeline architecture moving data into Snowflake warehouses.
-* Scalable data resource deployments utilizing AWS infrastructure.
-* Generative AI prompt workflows for automated insight discovery.
-
-### 🏆 6. Real-World Capstone Projects (`/06_Capstone_Projects`)
-* End-to-end data pipelines simulating modern industry challenges.
-* Production-ready dashboards built entirely from raw, messy source data.
-
----
-
-## 📈 Portfolio Key Takeaways
-* Engineered automated pipelines turning raw data into structured insights.
-* Applied strict statistical methods to ensure complete data integrity.
-* Built modular Python scripts and advanced SQL schemas for cloud ecosystems.
+### ☁️ 5. Cloud Data Engineering & Generative AI (`/05_Cloud_And_GenAI`)
+* **Snowflake Platform:** Virtual warehouse allocation, optimization setups, and live direct-query pipelines fed into BI layers.
+* **Enterprise Cloud Capstones:**
+  * *AWS + Snowflake + Power BI:* End-to-end cloud pipeline converting raw cloud object storage files into production reports.
+  * *AWS + Snowflake + Tableau:* Automated data pipelines migrating AWS assets through Snowflake warehousing into Tableau visuals.
+* **Prompt Engineering & Gen AI for Analytics:**
+  * Designing specific, highly context-aware prompt frameworks to automate analytical code generation (SQL, Python).
+  * Leveraging LLMs for rapid business insight generation, documentation writing, and dataset simulation.
 
 ---
-*Disclaimer: This repository hosts my personal coursework, projects, and custom asset implementations derived from the "Complete Data Analyst Bootcamp" and "Master Data Analysis" programs.*
+
+## 📈 Portfolio Architecture Takeaways
+* Proven capacity to ingest data from any major cloud ecosystem (AWS, Azure, GCP).
+* Demonstrated transition from manual data cleaning to AI-driven prompt workflows and dashboard automation.
+* Modular project design built explicitly to showcase clear industry readiness to global recruiters.
+
+---
+*Disclaimer: This repository features independent work, coursework, and architecture deployments mapped directly out of my intensive technical Data Analyst bootcamp.*
