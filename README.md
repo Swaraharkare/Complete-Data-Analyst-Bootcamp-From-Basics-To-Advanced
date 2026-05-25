@@ -1,4 +1,5 @@
-# 💼 End-to-End Data Analytics, Cloud Engineering 
+# 💼 End-to-End Data Analytics
+
 Welcome to my master data portfolio. This repository documents a complete production-grade technical journey from foundational data analysis to multi-cloud pipeline engineering, enterprise data warehousing, and AI-automated workflows. It is chronologically mapped to match every module of my intensive bootcamp curriculum.
 
 ---
