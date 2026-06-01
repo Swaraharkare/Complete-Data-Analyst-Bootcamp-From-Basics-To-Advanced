@@ -7,7 +7,7 @@ Welcome to my master data portfolio. This repository documents a complete produc
 ## 🛠️ Unified Technology Stack
 * **Core Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (SQL Server, MySQL)
 * **Business Intelligence:** Power BI (Advanced DAX, Dataflows), Tableau (Prep Builder), Excel
-* **Cloud Platforms:** AWS (S3, EC2), Azure (SQL DB), Google Cloud Platform (BigQuery)
+* **Cloud Platforms:** AWS (S3, EC2)
 * **Modern Warehousing:** Snowflake Cloud Data Platform
 * **AI & Automation:** Generative AI, LLM Prompt Engineering, Power BI AI Features
 
