@@ -19,11 +19,6 @@ Welcome to my master data portfolio. This repository documents a complete produc
 * **Python Basics & Libraries:** Foundations of syntax, control structures, and array operations using Pandas and NumPy.
 * **Data Analysis with Python:** Practical data cleaning, structural merging, and dataset transformation workflows.
 
-### 🧪 2. Statistics for Data Science (`/02_Statistics`)
-* **Descriptive Statistics:** Core metrics for tracking data distribution, central tendency, shapes, and variance.
-* **Probability Distributions:** Mathematical data modeling through Probability Distribution Functions (PDFs).
-* **Inferential Stats & Hypothesis Testing:** Rigorous data validation utilizing confidence intervals and A/B testing frameworks.
-
 ### ⚙️ 3. Feature Engineering & Exploratory Data Analysis (`/03_Feature_Eng_EDA`)
 * **Feature Engineering:** Preprocessing pipelines for missing value mitigation, categorical encoding, and feature scaling.
 * **Exploratory Data Analysis (EDA):** Applied visual diagnostics using Matplotlib and Seaborn to isolate outliers and underlying data patterns.
